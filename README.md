@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Pre-final Year B.E(CSE)<br>🌱 I’m currently learning Web Development and Data Structures and Algorithms<br>👯 I’m looking to collaborate on Building innovative and impactful projects<br>💬 Ask me about Web development,UI designing and Video editing<br>📫 How to reach me chokkalingammanoj861@gmail.com
+🔭 I’m currently studying Final Year B.E(CSE)<br>🌱 I’m currently learning Web Development and Data Structures and Algorithms<br>👯 I’m looking to collaborate on Building innovative and impactful projects<br>💬 Ask me about Web development,UI designing and Video editing<br>📫 How to reach me chokkalingammanoj861@gmail.com
 
 
 ## 🌐 Socials:
